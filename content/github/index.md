@@ -6,9 +6,9 @@ redirect_from:
   - /troubleshooting-common-issues/
 intro: 'Documentation, guides, and help topics for software developers, designers, and project managers. Covers using Git, pull requests, issues, wikis, gists, and everything you need to make the most of GitHub for development.'
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+  fpt: 'pl'
+  ghes: 'pl'
+  ghae: 'pl'
 children:
   - /setting-up-and-managing-your-github-user-account
   - /setting-up-and-managing-your-github-profile
